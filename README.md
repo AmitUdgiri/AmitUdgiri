@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Udgiri</h1>
 <h3 align="center">Manual Test Engineer at a leading Product-Based Company in Pune</h3>
 
-- 🔭 I’m currently working on **Software Testing Project**
+- 🔭 I’m currently working on **Product configurator software Testing Project**
 
 - 👯 I’m looking to collaborate on **Selenium using java projects**
 
