@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Selenium using java projects**
 
-- 🚀 Aspiring Automation Test Engineer **(Selenium + Java)**
+- 🚀 Aspiring Automation Test Engineer **(PlayWright + JavaScript)**
 
 - 📫 How to reach me **amitudgiri@gmail.com**
 
