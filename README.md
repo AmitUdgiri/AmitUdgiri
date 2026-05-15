@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Product configurator software Testing Project**
 
-- 👯 I’m looking to collaborate on **Selenium using java projects**
+- 👯 I’m looking to collaborate on **Playwight+Javascript Projects**
 
 - 🚀 Aspiring Automation Test Engineer **(PlayWright + JavaScript)**
 
